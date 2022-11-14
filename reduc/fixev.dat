@@ -1,0 +1,3 @@
+               clang                     gcc
+      BASE;  11503.965       BASE;  10533.165
+   UNROLL8;  11594.184    UNROLL8;  11531.363
