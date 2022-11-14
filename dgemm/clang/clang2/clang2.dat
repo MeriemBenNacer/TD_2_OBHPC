@@ -1,0 +1,7 @@
+                clang2
+       IJK;     89.325
+       IKJ;    279.128
+       IEX;    279.591
+   UNROLL4;    174.748
+   UNROLL8;    170.481
+     CBLAS;    332.631

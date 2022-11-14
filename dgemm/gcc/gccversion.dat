@@ -1,0 +1,7 @@
+                -01                    -02                    -03
+      IJK;     81.605        IJK;     81.436        IJK;     81.580
+       IKJ;    125.840        IKJ;    117.875        IKJ;    243.634
+       IEX;    116.529        IEX;    115.224        IEX;    325.617
+   UNROLL4;    159.311    UNROLL4;    157.024    UNROLL4;    263.142
+   UNROLL8;    151.412    UNROLL8;    150.816    UNROLL8;    260.481
+     CBLAS;    335.925      CBLAS;    335.982      CBLAS;    331.553
